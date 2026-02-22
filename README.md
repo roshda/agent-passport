@@ -2,10 +2,7 @@
 
 **Verified AI Agents for API Providers**
 
-AgentPassport is a market-facing MVP wrapper around the paper
-[Privacy-Preserving Group Signatures for HTTP Message Signing](./Privacy-Preserving%20Group%20Signatures%20for%20HTTP%20Message%20Signing%20%287%29.pdf).
-
-Instead of a crypto demo, this project is framed as a trust layer for API gateways and agent marketplaces handling autonomous AI traffic.
+AgentPassport turns privacy-preserving group signature concepts into an operational control plane: verify agent traffic, enforce gateway policy, revoke compromised members, and trace abuse when needed.
 
 ## Why this framing wins
 
